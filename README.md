@@ -10,7 +10,7 @@
 **Fechas:** 17-23 Mayo 2026
 
 ## Lo que aprendí
-- Instalé Pythong 3.14.5, VS Code, Git y conecté Github por SSH
+- Instalé Python 3.14.5, VS Code, Git y conecté Github por SSH
 - Hice mi primer commit y push desde Git Bash
 - Configuré Windows Terminal con Git Bash
 
