@@ -33,12 +33,14 @@
 | `input()` |Solicitar datos del usuario|
 
 ### Errores que resolví
-- **Error:** `git add .git commit` pegados en una línea → Git los interpretó como un solo comando  
-  **Fix:** Ejecutar cada comando por separado con Enter
-- **Error:** GH007 email privacy bloqueó el push  
-  **Fix:** Desactivar "Block command line pushes" en GitHub Settings → Emails
-- **Error:** `sueldo actual` aparecía como [int] en lugar de [float].
-  **Fix:** 20500.0 o 20500.50 para que sea float.
+- **Error:** `git add .git commit` pegados en una línea
+  - **Fix:** Ejecutar cada comando por separado con Enter
+
+- **Error:** GH007 email privacy bloqueó el push
+  - **Fix:** Desactivar "Block command line pushes" en GitHub Settings → Emails
+
+- **Error:** `sueldo_actual` aparecía como `int` en lugar de `float`
+  - **Fix:** Escribir `20500.0` o `20500.50` para que Python lo interprete como float
 
   ### Repos de esta semana
 - [mi-primer-repo](https://github.com/fernasa-dev/Mi-Primer-Repo)
