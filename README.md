@@ -51,7 +51,7 @@
 ---
 
 ## 🔜 Semana 2 — Python: variables, tipos y control de flujo
-> Pendiente
+> On-going
 
 ---
 
